@@ -5,6 +5,7 @@
 ## Essential Links
 
 - [Assignment Links]() TODO
+- Lecture Content TODO
 - [Gradebook]() TODO
 - [Schedule of Topics]() TODO
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
@@ -65,9 +66,15 @@ TODO: Add Colab? Python? VSCode?
 
 ## Assignments & Evaluation
 
+### Specifications Grading
+
+TODO: Add explanation. 
+
 ### Challenges & Projects
 
 Out-of-class assignments will include ten challenges and three projects, including the final project. Satisfactory grades encompass a satisfactory submission as well as in-class verbal explanation of assignment.
+
+These grading criteria are subject to change, but changes should always improve your chances of a higher grade. 
 
 | Grade | Challenges                              | Projects                                                     |
 | ----- | --------------------------------------- | ------------------------------------------------------------ |
@@ -111,6 +118,8 @@ You will receive regular updates on your weekly average points so you can adjust
 
 - Token 1: can be used on project 1 or challenges 1-5
 - Token 2: can be used on project 2 or challenges 6-10
+
+TODO: allow resubmit? 
 
 If you apply a token to an assignment with multiple intermittent deadlines, all deadlines that occur 24+ hours after the token is applied will be extended by one week. 
 
