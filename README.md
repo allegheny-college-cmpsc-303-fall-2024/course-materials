@@ -12,6 +12,8 @@
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1271860126705520720)
 - Department Policies TODO
 
+TODO: consider which links/jump-to/table of contents
+
 ## Professor Contact
 
 Morgan Green <br>
@@ -70,18 +72,20 @@ TODO: Add Colab? Python? VSCode?
 
 TODO: Add explanation. 
 
+TODO: Link to dept. policy
+
 ### Challenges & Projects
 
-Out-of-class assignments will include ten challenges and three projects, including the final project. Satisfactory grades encompass a satisfactory submission as well as in-class verbal explanation of assignment.
+Major assignments include ten challenges and three projects, including the final project. Satisfactory grades encompass a satisfactory submission as well as in-class verbal explanation of assignment.
 
-These grading criteria are subject to change, but changes should always improve your chances of a higher grade. 
+These grading criteria are subject to change, but changes should never reduce your chances of a higher grade. 
 
 | Grade | Challenges                              | Projects                                                     |
 | ----- | --------------------------------------- | ------------------------------------------------------------ |
-| A     | Satisfactory grade on 8 / 10 challenges | Receive satisfactory grade on all three projects             |
-| B     | Satisfactory grade on 7 /10 challenges  | Receive satisfactory grade on final project and one other project. Receive "Attempted" on third project. |
-| C     | Satisfactory grade on 6 /10 challenges  | Receive satisfactory grade on final project and one other project. |
-| D     | Satisfactory grade on 5 /10 challenges  | Receive satisfactor grade on one project.                    |
+| A     | Satisfactory grade on 8 / 10 challenges | Satisfactory grade on all three projects                     |
+| B     | Satisfactory grade on 7 /10 challenges  | Satisfactory grade on two projects. Attempt all three projects. |
+| C     | Satisfactory grade on 6 /10 challenges  | Satisfactory grade on two projects.                          |
+| D     | Satisfactory grade on 5 /10 challenges  | Satisfactory grade on one project. Attempt at least two projects. |
 
 If you receive checkmarks for different grade levels in different columns, an average of the two will be taken. This may lead to a +/- added to your grade. 
 
@@ -90,14 +94,15 @@ If you receive checkmarks for different grade levels in different columns, an av
 You can receive engagement points by:
 
 - Attending class and completing entrace/exit tickets. 
-  - Tickets will be assigned during class, and cannot be completed outside of class time. 
+  - Tickets will be assigned during class, and cannot be completed outside of class time. They are the primary form of attendance tracking, which will be supplemented by visual confirmation that student is present.
+  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt given to ensure points. 
   - Successful completion of some tickets will require reading/watching/listening assigned materials outside of class. 
 - Speaking in class (answering a question, asking a question, conributing to a discussion, responding to a prompt etc.) 
 - Speaking with professor one-on-one during lab time or open work time
 - Attending professor office hours
 - Presenting a project (earns 5 points)
 
-You have opportunities to earn at least ten points during each full week of class. Your engagement points affect your grade as follows:
+You have opportunities to earn at least ten points during each full week of class (six entrance + exit tickets, three chances for in-class participation, one or more chance for office hours). Your engagement points affect your grade as follows:
 
 | Average Weekly Points | Grade Impact                               |
 | --------------------- | ------------------------------------------ |
@@ -108,18 +113,30 @@ You have opportunities to earn at least ten points during each full week of clas
 
 Weekly averages will be rounded to the nearest whole number
 
-This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. **As an exception: if you are sick with something contagious, you should not come to class. If you are concertned sickness will impact your grade, let the professor know and accomodations will be made.** 
+This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. 
+
+**As an exception: if you are sick with something contagious, you should not come to class even if you have already missed the permitted two weeks. If this is your situation, please contact your professor. In most situations, the ~two week allowance already in place will allow you to stay home when sick without consequence or having to contact professor. ** 
 
 You will receive regular updates on your weekly average points so you can adjust your participation accordingly.  
 
 ### Tokens and Late Assignments
 
-**Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** You will have two tokens, and each can extend **one** assignment's deadline by one week. Each token works on limited assignments: 
+**Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** 
+
+**These tokens are no-questions-asked.** They are meant to accomodate emergency situations, so there is no need to provide an excuse when applying a token. 
+
+You will have two tokens, and each either
+
+- Extends **one** assignment's deadline by one week
+
+  OR
+
+- Allows resubmit of **one** assignment one week after receiving your grade. Resubmits can only be used on assignments where an on-time attempt was made
+
+Each token works on limited assignments: 
 
 - Token 1: can be used on project 1 or challenges 1-5
 - Token 2: can be used on project 2 or challenges 6-10
-
-TODO: allow resubmit? 
 
 If you apply a token to an assignment with multiple intermittent deadlines, all deadlines that occur 24+ hours after the token is applied will be extended by one week. 
 
