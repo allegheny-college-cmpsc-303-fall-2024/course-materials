@@ -30,7 +30,7 @@ A study of the design and implementation of intelligent computer systems that ca
 
 Prerequisite: CMPSC 101 or CMPSC 102. 
 
-Distribution Requirements: QR, SP.
+Distribution Requirements: QR (Quantitative Reasoning), SP (Scientific Process).
 
 ### Course Learning Outcomes
 
