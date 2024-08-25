@@ -5,14 +5,14 @@
 ## Essential Links
 
 - [Assignment Links]() TODO
-- Lecture Content TODO
-- [Gradebook]() TODO
-- [Schedule of Topics]() TODO
+- <!--Lecture Content TODO-->
+- <!--[Gradebook]() TODO-->
+- <!--[Schedule of Topics]() TODO-->
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1271860126705520720)
-- Department Policies TODO
+- <!--Department Policies--> 
 
-TODO: consider which links/jump-to/table of contents
+<!--TODO: consider which links/jump-to/table of contents-->
 
 ## Professor Contact
 
@@ -62,21 +62,35 @@ There are no physical textbooks for this course. Any texts or articles used will
 
 This course relies on GitHub and Discord. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
 
-TODO: Add Colab? Python? VSCode? 
-
 
 
 ## Assignments & Evaluation
 
 ### Specifications Grading
 
-TODO: Add explanation. 
+This course uses a version of specifications grading. Each assignment receives of a grade of either *satisfactory* or *unsatisfactory*, and is bundled into a certain category. To achieve a certain letter grade, you must receive satisfactory marks on the required number of assignments for that grade.
 
-TODO: Link to dept. policy
+In addition, you will receive engagement points for coming to class and participating. Your engagement score can lower or increase your letter grade. See below for more info on how to earn the grade you want. 
 
 ### Challenges & Projects
 
-Major assignments include ten challenges and three projects, including the final project. Satisfactory grades encompass a satisfactory submission as well as in-class verbal explanation of assignment.
+Major assignments include ten challenges and three projects, including the final project. 
+
+#### Challenges
+
+Challenges are coding assignments where you use AI concepts to solve directed problems with code. As the name suggests, challenges are meant to be challenging. You will be assigned ten challenges throughout the semester. 
+
+Satisfactory completion of challenges requires you to receive a certain number of gator checks. You will also need to verbally answer questions about each challenge during lab time, without referencing the assignment. 
+
+#### Projects
+
+Projects are open-ended assignments where you create your own research prompt and respond to it using a specific AI concept. These projects include:
+
+- Project 1: Search
+- Project 2: Uncertainty & Prediction
+- Project 3: Machine Learning
+
+#### Grading Scheme
 
 These grading criteria are subject to change, but changes should never reduce your chances of a higher grade. 
 
@@ -95,8 +109,8 @@ You can receive engagement points by:
 
 - Attending class and completing entrace/exit tickets. 
   - Tickets will be assigned during class, and cannot be completed outside of class time. They are the primary form of attendance tracking, which will be supplemented by visual confirmation that student is present.
-  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt given to ensure points. 
-  - Successful completion of some tickets will require reading/watching/listening assigned materials outside of class. 
+  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt to ensure credit. 
+  - Successful completion of some tickets will require outside-of-class preparation, such as reading an article or listening to a podcast. 
 - Speaking in class (answering a question, asking a question, conributing to a discussion, responding to a prompt etc.) 
 - Speaking with professor one-on-one during lab time or open work time
 - Attending professor office hours
@@ -117,11 +131,9 @@ This system means that you can miss roughly two weeks of class without consequen
 
 **As an exception: if you are sick with something contagious, you should not come to class even if you have already missed the permitted two weeks. If this is your situation, please contact your professor. In most situations, the ~two week allowance already in place will allow you to stay home when sick without consequence or having to contact professor. ** 
 
-You will receive regular updates on your weekly average points so you can adjust your participation accordingly.  
-
 ### Tokens and Late Assignments
 
-**Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline.** 
+**Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline, with limited exceptions for emergencies.** Depending on your grade goals, you can also miss some assignments without penalty based on the spec grading schema. 
 
 **These tokens are no-questions-asked.** They are meant to accomodate emergency situations, so there is no need to provide an excuse when applying a token. 
 
@@ -137,8 +149,6 @@ Each token works on limited assignments:
 
 - Token 1: can be used on project 1 or challenges 1-5
 - Token 2: can be used on project 2 or challenges 6-10
-
-If you apply a token to an assignment with multiple intermittent deadlines, all deadlines that occur 24+ hours after the token is applied will be extended by one week. 
 
 The third and final project must be turned in on time. Tokens cannot be applied. 
 
