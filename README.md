@@ -4,13 +4,22 @@
 
 ## Essential Links
 
-- [Assignment Links]() TODO
-- <!--Lecture Content TODO-->
-- <!--[Gradebook]() TODO-->
-- <!--[Schedule of Topics]() TODO-->
+- [Assignment Links](https://allegheny.instructure.com/courses/11083/assignments) 
+  <!---
+
+- Lecture Content TODO-
+
+- [Gradebook]() TODO
+
+- [Schedule of Topics]() TODO
+
+- Department Policies TODO
+
+  --->
+
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
+
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1271860126705520720)
-- <!--Department Policies--> 
 
 <!--TODO: consider which links/jump-to/table of contents-->
 
