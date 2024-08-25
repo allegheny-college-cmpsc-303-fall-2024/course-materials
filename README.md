@@ -7,11 +7,11 @@
 - [Assignment Links](https://allegheny.instructure.com/courses/11083/assignments) 
 
 
-[//]: # (- Lecture Content TODO)
+[//]: # (Lecture Content TODO)
 
-[//]: # ([Gradebook]() TODO)
+[//]: # (Gradebook TODO)
 
-[//]: # ( [Schedule of Topics]() TODO)
+[//]: # ( Schedule of Topics TODO)
 
 [//]: # (Department Policies TODO)
 
