@@ -139,6 +139,8 @@ This system means that you can miss roughly two weeks of class without consequen
 
 **As an exception: if you are sick with something contagious, you should not come to class even if you have already missed the permitted two weeks. If this is your situation, please contact your professor. In most situations, the ~two week allowance already in place will allow you to stay home when sick without consequence or having to contact professor. ** 
 
+See department policies for more information on attendance. 
+
 ### Tokens and Late Assignments
 
 **Late challenges and projects will not be accepted unless a token is applied at least 24 hours before the assignment deadline, with limited exceptions for emergencies.** Depending on your grade goals, you can also miss some assignments without penalty based on the spec grading schema. 
@@ -160,9 +162,11 @@ Each token works on limited assignments:
 
 The third and final project must be turned in on time. Tokens cannot be applied. 
 
+See department policies for more information on tokens. 
+
 ## Course Policies
 
-TODO: Update these policies, as well as token and engagment policies, after 4/22 department meeting. 
+See department policies for more information on the below. 
 
 ### Illness and Wellness, Mental and Physical
 
