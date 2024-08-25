@@ -76,9 +76,11 @@ This course relies on GitHub and Discord. Your work will be assigned and evaluat
 
 ### Specifications Grading
 
-This course uses a version of specifications grading. Each assignment receives of a grade of either *satisfactory* or *unsatisfactory*, and is bundled into a certain category. To achieve a certain letter grade, you must receive satisfactory marks on the required number of assignments for that grade.
+This course uses a version **specifications grading**. This means that instead of receiving points for different assignments and a weighted average, each assignment receives a grade of either **satisfactory** or **unsatisfcatory**.  You will also earn **engagement points** for attending and engaging in class, and these points can either increase or lower your grade. 
 
-In addition, you will receive engagement points for coming to class and participating. Your engagement score can lower or increase your letter grade. See below for more info on how to earn the grade you want. 
+Each assignment is bundled into a certain category. To achieve a certain letter grade, you must receive satisfactory marks on the required number of assignments for that grade.
+
+You can miss a limited amount of assignments under this policy, and **tokens** will also allow for a few late or resubmitted assignments. See below for detailed information on how assignment completion leads to different grades. 
 
 ### Challenges & Projects
 
