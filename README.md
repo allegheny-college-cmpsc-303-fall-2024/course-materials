@@ -172,7 +172,9 @@ See department policies for more information on the below.
 
 ### Illness and Wellness, Mental and Physical
 
-**If you think you may be sick, stay home** —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). You will ultimately lose more time if you don't allow your body the rest it needs to heal. The class as a whole will succeed better if we make the effort to protect one another from illness. If you experience respiratory symptoms and do not feel you can miss class, please wear a mask that covers your nose and mouth. I will also entertain requests to record portions of class, but make no guarantees.
+**If you think you may be sick, stay home** —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). For more information about missed class and sickness, see CIS department policies. 
+
+#### Mental Health
 
 As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed.
 
@@ -210,17 +212,9 @@ As the nature of "plagiarism" and constituents of "fair use" change often, the d
 
 The above statement, of course, also applies to online forums such as Stack Overflow, et al.
 
-### Borrowed Code + Copilot in this class
+### Artificial Intelligence in Class
 
-As an elaboration of the honor code cited above, in this class we have specific policies about borrowed code, as well as AI-assisted code (Copilot).
-
-If you borrow any section of code more than two lines long (even if you modify it), you must link to the code source in the comments and specify where the borrowed code begins and ends. This includes code found online, code from your friends, and even code from class demos. In addition, note the lines you have modified in the code. In certain cases, you may be asked to document what each piece of code does, regardless of whether you borrowed it.
-
-If you use Copilot, you must identify the prompt in your code comments and also delineate the code that came from Copilot and if/how you modified it.
-
-Borrowing code correctly is a big part of being a professional computer scientist, and so it won’t be penalized as long as the code is cited as above and doesn’t constitute more than 50% of your project.
-
-Work that violates the above policy will be dealt with as plagiarism.
+See department policies for information on using AI assistance on class assignments. 
 
 ### Religious Observance
 
