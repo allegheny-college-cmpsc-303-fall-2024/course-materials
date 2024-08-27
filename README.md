@@ -214,7 +214,9 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 ### Artificial Intelligence in Class
 
-See department policies for information on using AI assistance on class assignments. 
+It is recommended that you limit use of AI-assisted code, as writing the code yourself faciliates better learning. You will need to demonstrate understanding of core concepts taught in class through verbal and written work, beyond just writing the code. 
+
+I request that you include any prompts you used to generate code inline with the comment `#AI PROMPT` followed by the name of the tool (e.g. Copilot, GPT). See department policies for information on using AI assistance on class assignments. 
 
 ### Religious Observance
 
