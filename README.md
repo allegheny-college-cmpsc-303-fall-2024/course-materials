@@ -6,8 +6,7 @@
 
 - [Assignment Links](https://allegheny.instructure.com/courses/11083/assignments) 
 
-
-[//]: # (Lecture Content TODO)
+- [Slides](https://drive.google.com/drive/folders/1nnPXaz3lpiarqAO2kBn2tA9wEFOimALW)
 
 [//]: # (Gradebook TODO)
 
