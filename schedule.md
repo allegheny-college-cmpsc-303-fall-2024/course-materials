@@ -3,8 +3,8 @@
 ## Schedule of Topics
 
 | **Week** | **Dates**                   | **Topic**                               | ** Due ** |
-| -------- | --------------------------- | --------------------------------------- |
-| Week 1   | August 26 - September 1     | Intro to Search      |
+| -------- | --------------------------- | --------------------------------------- | --- |
+| Week 1   | August 26 - September 1     | Intro to Search      | | 
 | Week 2   | September 2 - September 8   | Search Algorithms | Stratagema, Challenge 1 | 
 | Week 3   | September 9 - September 15  | Recursion Week!                | Kevin Bacon, 2 Challenge |
 | Week 4   | September 16 - September 22 | MiniMax                    | Recursion, Challenge 3 |
