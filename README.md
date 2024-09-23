@@ -112,33 +112,37 @@ These grading criteria are subject to change, but changes should never reduce yo
 
 If you receive checkmarks for different grade levels in different columns, an average of the two will be taken. This may lead to a +/- added to your grade. 
 
-### Engagement Points
+### Engagement Grade
+
+The scoring for engagmenet has changed from a weekly average to a simple letter grade. You can see the archived version [here](https://github.com/allegheny-college-cmpsc-303-fall-2024/course-materials/tree/archive?tab=readme-ov-file#engagement-points). 
 
 You can receive engagement points by:
 
-- Attending class and completing entrace/exit tickets. 
+- Attending class and completing entrance/exit tickets. 
   - Tickets will be assigned during class, and cannot be completed outside of class time. They are the primary form of attendance tracking, which will be supplemented by visual confirmation that student is present.
-  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt to ensure credit. 
-  - Successful completion of some tickets will require outside-of-class preparation, such as reading an article or listening to a podcast. 
+  - Tickets come in different forms, such as Google Forms, Discord threads, and short Github/Trinket assignments. You receive points for completing these assignments regardless of correctness, but you must at least attempt to respond to the prompt given to ensure points. 
 - Speaking in class (answering a question, asking a question, conributing to a discussion, responding to a prompt etc.) 
 - Speaking with professor one-on-one during lab time or open work time
 - Attending professor office hours
 - Presenting a project (earns 5 points)
+  
+To get an A on your engagement score, you will complete enough tickets to reflect that you have missed no more than two weeks of class throughout the semester. You should also participate in class and/or go to office hours about once a week, on average.  
 
-You have opportunities to earn at least ten points during each full week of class (six entrance + exit tickets, three chances for in-class participation, one or more chance for office hours). Your engagement points affect your grade as follows:
+Your engagement grade affect your grade as follows:
 
-| Average Weekly Points | Grade Impact                               |
+| Average Weekly Points | Grade Impact                               | 
 | --------------------- | ------------------------------------------ |
-| >=7                   | Adds half a letter grade, if possible      |
-| 6                     | No impact                                  |
-| 5                     | Subtracts half a letter grade, if possible |
-| <=4                   | Subtracts a full letter grade              |
+| A                  | Adds half a letter grade, if possible      | 
+| B                    | No impact                                  |
+| C                    | Subtracts half a letter grade, if possible |
+| D or below                  | Subtracts a full letter grade, if possible              |
 
-Weekly averages will be rounded to the nearest whole number
 
 This system means that you can miss roughly two weeks of class without consequence, assuming you are participating in class each week. Note that this accomodation is meant to cover emergencies, and additional absences may not be excused. 
 
 **As an exception: if you are sick with something contagious, you should not come to class even if you have already missed the permitted two weeks. If this is your situation, please contact your professor. In most situations, the ~two week allowance already in place will allow you to stay home when sick without consequence or having to contact professor. ** 
+
+You will receive regular updates on your weekly average points so you can adjust your participation accordingly.  
 
 See department policies for more information on attendance. 
 
