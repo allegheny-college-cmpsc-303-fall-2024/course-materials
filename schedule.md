@@ -6,7 +6,7 @@
 | -------- | --------------------------- | --------------------------------------- | --- |
 | Week 1   | August 26 - September 1     | Intro to Search      | | 
 | Week 2   | September 2 - September 8   | Search Algorithms | Stratagema, Challenge 1 | 
-| Week 3   | September 9 - September 15  | Recursion Week!                | Kevin Bacon, 2 Challenge |
+| Week 3   | September 9 - September 15  | Recursion Week!                | Kevin Bacon, Challenge 2 |
 | Week 4   | September 16 - September 22 | MiniMax                    | Recursion, Challenge 3 |
 | Week 5   | September 23 - September 29 | Project Work Time                      | Tic-Tac-Toe, Challenge 4 | 
 | Week 6   | September 30 - October 6    | Knowledge Week 1                      | Game Project Planning (9/30) |
