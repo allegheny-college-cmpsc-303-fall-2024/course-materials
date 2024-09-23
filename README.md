@@ -10,7 +10,7 @@
 
 [//]: # (Gradebook TODO)
 
-[//]: # ( Schedule of Topics TODO)
+- [Schedule of Topics](schedule.md)
 
 [//]: # (Department Policies TODO)
 
