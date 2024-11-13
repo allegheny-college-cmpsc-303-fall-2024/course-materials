@@ -85,7 +85,8 @@ You can miss a limited amount of assignments under this policy, and **tokens** w
 
 ### Challenges & Projects
 
-Major assignments include ten challenges and three projects, including the final project. 
+Major assignments include nine challenges and three projects, including the final project. 
+There have been some updates from the original syllabus. You can view the archived version [here](https://github.com/allegheny-college-cmpsc-303-fall-2024/course-materials/tree/archive?tab=readme-ov-file)
 
 #### Challenges
 
@@ -107,10 +108,10 @@ These grading criteria are subject to change, but changes should never reduce yo
 
 | Grade | Challenges                              | Projects                                                     |
 | ----- | --------------------------------------- | ------------------------------------------------------------ |
-| A     | Satisfactory grade on 8 / 10 challenges | Satisfactory grade on all three projects                     |
-| B     | Satisfactory grade on 7 /10 challenges  | Satisfactory grade on two projects. Attempt all three projects. |
-| C     | Satisfactory grade on 6 /10 challenges  | Satisfactory grade on two projects.                          |
-| D     | Satisfactory grade on 5 /10 challenges  | Satisfactory grade on one project. Attempt at least two projects. |
+| A     | Satisfactory grade on 7 / 9 challenges | Satisfactory grade on all three projects                     |
+| B     | Satisfactory grade on 6 / 9 challenges  | Satisfactory grade on two projects. Attempt all three projects. |
+| C     | Satisfactory grade on 5 / 9 challenges  | Satisfactory grade on two projects.                          |
+| D     | Satisfactory grade on 4 /9 challenges  | Satisfactory grade on one project. Attempt at least two projects. |
 
 If you receive checkmarks for different grade levels in different columns, an average of the two will be taken. This may lead to a +/- added to your grade. 
 
